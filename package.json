@@ -8,7 +8,7 @@
     "build": "parcel build src/index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Victor",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
